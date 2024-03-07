@@ -1,0 +1,7 @@
+D:\T. Pemrograman smter 2\Tugas Pertemuan 1\Tugas Pertemuan 1\bin\Debug\Tugas Pertemuan 1.exe.config
+D:\T. Pemrograman smter 2\Tugas Pertemuan 1\Tugas Pertemuan 1\bin\Debug\Tugas Pertemuan 1.exe
+D:\T. Pemrograman smter 2\Tugas Pertemuan 1\Tugas Pertemuan 1\bin\Debug\Tugas Pertemuan 1.pdb
+D:\T. Pemrograman smter 2\Tugas Pertemuan 1\Tugas Pertemuan 1\obj\Debug\Tugas Pertemuan 1.csproj.AssemblyReference.cache
+D:\T. Pemrograman smter 2\Tugas Pertemuan 1\Tugas Pertemuan 1\obj\Debug\Tugas Pertemuan 1.csproj.CoreCompileInputs.cache
+D:\T. Pemrograman smter 2\Tugas Pertemuan 1\Tugas Pertemuan 1\obj\Debug\Tugas Pertemuan 1.exe
+D:\T. Pemrograman smter 2\Tugas Pertemuan 1\Tugas Pertemuan 1\obj\Debug\Tugas Pertemuan 1.pdb
